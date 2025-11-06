@@ -17,4 +17,4 @@ int main(int argc, char *argv []) {
 }
 ```
 
-![Google](http://google.com)
+![Google](https://upload.wikimedia.org/wikipedia/commons/5/51/Google.png)
